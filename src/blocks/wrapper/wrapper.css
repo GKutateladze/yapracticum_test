@@ -1,0 +1,22 @@
+.wrapper {
+    padding: 16px;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .wrapper {
+        padding: 30px 24px 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    .wrapper {
+        padding: 30px 48px 0;
+    }
+}
+
+@media (min-width: 1440px) {
+    .wrapper {
+        padding: 24px 128px 0;
+    }
+}

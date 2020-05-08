@@ -1,0 +1,18 @@
+.comment__picture {
+    width: 96px;
+    height: 96px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.comment__picture_1 {background-image: url("/src/images/comments/__profile1.png");}
+.comment__picture_2 {background-image: url("/src/images/comments/__profile2.png");}
+.comment__picture_3 {background-image: url("/src/images/comments/__profile3.png");}
+
+@media (min-width: 1024px) {
+    .comment__picture {
+        margin: 0;
+    }
+}

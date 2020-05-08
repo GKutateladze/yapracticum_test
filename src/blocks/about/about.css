@@ -1,0 +1,17 @@
+@import url(__title/about__title.css);
+@import url(__body/about__body.css);
+@import url(__info/about__info.css);
+@import url(__picture/about__picture.css);
+@import url(__pictures/about__pictures.css);
+@import url(__wrapper/about__wrapper.css);
+
+.about {
+    color: white;
+    margin-top: 64px;
+}
+
+@media (min-width: 768px) {
+    .about {
+        margin-top: 80px;
+    }
+}

@@ -1,0 +1,15 @@
+.header__head {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+    color: white;
+}
+
+@media (min-width: 768px) {
+    .header__head {
+        font-size: 96px;
+        line-height: 93px;
+    }
+}

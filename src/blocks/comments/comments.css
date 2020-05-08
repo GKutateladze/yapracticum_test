@@ -1,0 +1,15 @@
+@import url(__title/comments__title.css);
+@import url(__about/comments__about.css);
+@import url(__box/comments__box.css);
+
+.comments {
+    color: white;
+    margin-top: 64px;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .comments {
+        margin-top: 102px;
+    }
+}

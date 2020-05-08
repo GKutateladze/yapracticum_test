@@ -1,0 +1,20 @@
+.comments__box {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 34px;
+}
+
+@media (min-width: 768px) {
+    .comments__box {
+        margin: 66px auto 0;
+        width: 382px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .comments__box {
+        margin-top: 72px;
+        justify-content: space-between;
+        width: 100%;
+    }
+}

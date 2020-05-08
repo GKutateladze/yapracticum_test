@@ -1,0 +1,15 @@
+{
+  "name": "yandex",
+  "version": "1.0.0",
+  "description": "yandex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "browser-sync start --server --files 'dist/**/*.css, **/*.html'"
+  },
+  "author": "George",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}

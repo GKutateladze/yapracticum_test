@@ -1,0 +1,23 @@
+.footer__links {
+    margin-top: 64px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer__links>li {
+    list-style: none;
+}
+
+@media (min-width: 768px) {
+    .footer__links {
+        margin-top: 102px;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer__links {
+        margin-top: 160px;
+        align-items: center;
+    }
+}

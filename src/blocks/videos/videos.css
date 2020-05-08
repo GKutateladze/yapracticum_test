@@ -1,0 +1,15 @@
+@import url(__about/videos__about.css);
+@import url(__box/videos__box.css);
+@import url(__header/videos__header.css);
+
+.videos {
+    color: white;
+    margin-top: 64px;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .videos {
+        margin-top: 102px;
+    }
+}

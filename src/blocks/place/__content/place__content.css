@@ -1,0 +1,20 @@
+.place__content:last-of-type {
+    margin-top: 32px;
+}
+
+@media (min-width: 768px) {
+    .place__content:first-of-type {
+        display: flex;
+    }
+    .place__content:last-of-type {
+        display: flex;
+        margin-top: 40px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .place__content:last-of-type {
+        display: flex;
+        margin-top: 60px;
+    }
+}

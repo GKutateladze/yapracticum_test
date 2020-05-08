@@ -1,0 +1,26 @@
+.about__pictures {
+    margin-top: 64px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 768px) {
+    .about__pictures {
+        margin: 97px -8px 0;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 1024px) {
+    .about__pictures {
+        margin: 102px -7px 0;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 1280px) {
+    .about__pictures {
+        margin: 102px -8px 0;
+        justify-content: space-between;
+    }
+}

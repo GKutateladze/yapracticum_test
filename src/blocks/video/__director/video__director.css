@@ -1,0 +1,12 @@
+.video__director {
+    margin-top: 2px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+@media (min-width: 1024px) {
+    .video__director {
+        margin-top: 18px;
+    }
+}

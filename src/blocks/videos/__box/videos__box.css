@@ -1,0 +1,21 @@
+.videos__box {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+@media (min-width: 768px) {
+    .videos__box {
+        margin: 56px -9px 0;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 1024px) {
+    .videos__box {
+        margin-top: 72px;
+    }
+}
