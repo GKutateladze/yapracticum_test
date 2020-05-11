@@ -16,10 +16,16 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    transition: 0.4s;
 }
 
 .video_wrapper:first-child .video {
     background-image: url("/src/images/videos/_video1.png");
+}
+
+.video:hover {
+    transform: scale(1.01);
+    transition: 0.4s;
 }
 
 .video_wrapper:last-child .video {
