@@ -1,16 +1,12 @@
-@import url(__head/header__head.css);
-@import url(__description/header__description.css);
-@import url(__image/header__image.css);
-@import url(__text/header__text.css);
+@import url(__logo/header__logo.css);
+@import url(__language/header__language.css);
+@import url(../language/language.css);
 
 .header {
-    margin-top: 48px;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-@media (min-width: 1280px) {
-    .header {
-        padding: 0 100px;
-    }
-}
+
 

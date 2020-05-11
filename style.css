@@ -1,5 +1,5 @@
-@import url(src/blocks/navigation/navigation.css);
 @import url(src/blocks/header/header.css);
+@import url(src/blocks/intro/intro.css);
 @import url(src/blocks/wrapper/wrapper.css);
 @import url(src/blocks/about/about.css);
 @import url(src/blocks/places/places.css);

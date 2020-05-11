@@ -1,4 +1,4 @@
-.navigation__logo {
+.header__logo {
     width: 142px;
     height: 42px;
     background-image: url("/src/images/navigation/__logo.svg");
@@ -7,7 +7,7 @@
 }
 
 @media (min-width: 768px) {
-    .navigation__logo {
+    .header__logo {
         width: 176px;
         height: 52px;
     }

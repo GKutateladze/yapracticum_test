@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5928608-6033-4d6d-847c-b7d9ed8cdc63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/intro/intro.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__description/header__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/intro/__description/intro__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__head/header__head.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/intro/__head/intro__head.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__image/header__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/intro/__image/intro__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__text/header__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/navigation/__language/navigation__language.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__language/header__language.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/navigation/__logo/navigation__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/navigation/navigation.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,12 +69,24 @@
       <workItem from="1588858247519" duration="862000" />
       <workItem from="1588926094137" duration="25707000" />
       <workItem from="1589179781249" duration="106000" />
-      <workItem from="1589211576963" duration="452000" />
+      <workItem from="1589211576963" duration="1162000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1589212130402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589212130403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588756857206">
@@ -78,6 +97,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1588758548135" />
+    <state x="290" y="52" key="CommitChangelistDialog2" timestamp="1589212130066">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="290" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589212130066" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1589212167921">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589212167921" />
     <state x="3" y="0" width="1165" height="715" key="dock-window-1" timestamp="1588847652856">
       <screen x="0" y="23" width="1440" height="821" />
     </state>

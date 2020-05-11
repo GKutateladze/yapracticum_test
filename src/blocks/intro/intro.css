@@ -1,0 +1,16 @@
+@import url(__head/intro__head.css);
+@import url(__description/intro__description.css);
+@import url(__image/intro__image.css);
+@import url(__text/intro__text.css);
+
+.intro {
+    margin-top: 48px;
+    text-align: center;
+}
+
+@media (min-width: 1280px) {
+    .intro {
+        padding: 0 100px;
+    }
+}
+
